@@ -1,0 +1,16 @@
+PODS:
+  - FileManagerModule (0.1.0)
+
+DEPENDENCIES:
+  - FileManagerModule (from `../`)
+
+EXTERNAL SOURCES:
+  FileManagerModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FileManagerModule: ac3d00520af92c1280b0eff7e743b496f99e35d3
+
+PODFILE CHECKSUM: 64eeaff386066cf0a2004937d35899812afdd3c9
+
+COCOAPODS: 1.9.1
